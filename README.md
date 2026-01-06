@@ -1,6 +1,6 @@
 # [Package name]
 
-<description>
+:: short description::
 
 ## Installation
 
