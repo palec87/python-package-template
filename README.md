@@ -1,6 +1,6 @@
-# mgnify-methods
+# [Package name]
 
-Support methods and classes for the Biodiversity studies on Mgnify metagenomes
+<description>
 
 ## Installation
 
