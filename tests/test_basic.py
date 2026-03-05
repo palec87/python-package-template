@@ -1,15 +1,15 @@
-"""Basic tests for mgnify-methods package."""
+"""Basic tests for package_name package."""
 
-import mgnify_methods
+import src
 
 
 def test_hello() -> None:
     """Test the hello function."""
-    result = mgnify_methods.hello()
+    result = src.hello()
     assert isinstance(result, str)
-    assert "Hello from mgnify-methods!" == result
+    assert "Hello from package_name!" == result
 
 
 def test_package_has_version() -> None:
     """Test that the package has a version attribute."""
-    assert hasattr(mgnify_methods, "__version__")
+    assert hasattr(src, "__version__")

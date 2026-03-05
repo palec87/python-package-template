@@ -1,10 +1,10 @@
-# mgnify-methods Documentation
+# package_name Documentation
 
-Welcome to the documentation for mgnify-methods.
+Welcome to the documentation for package_name.
 
 ## Overview
 
-Support methods and classes for the Biodiversity studies on Mgnify metagenomes.
+Support methods and classes for ....
 
 ## Contents
 

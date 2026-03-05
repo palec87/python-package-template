@@ -7,20 +7,20 @@
 ### Using uv (recommended)
 
 ```bash
-uv add mgnify-methods
+uv add package_name
 ```
 
 ### Using pip
 
 ```bash
-pip install mgnify-methods
+pip install package_name
 ```
 
 ### From source
 
 ```bash
-git clone https://github.com/palec87/mgnify-methods.git
-cd mgnify-methods
+git clone https://github.com/palec87/package_name.git
+cd package_name
 uv sync
 ```
 

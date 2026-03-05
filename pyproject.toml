@@ -1,7 +1,7 @@
 [project]
-name = "mgnify-methods"
+name = "package_name"
 version = "0.1.0"
-description = "Support methods and classes for the Biodiversity studies on Mgnify metagenomes"
+description = "A brief description of the package."
 readme = "README.md"
 authors = [
     { name = "palec87", email = "palec87@users.noreply.github.com" }

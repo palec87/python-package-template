@@ -1,7 +1,7 @@
 # API Reference
 
 ```{eval-rst}
-.. automodule:: mgnify_methods
+.. automodule:: package_name
    :members:
    :undoc-members:
    :show-inheritance:
